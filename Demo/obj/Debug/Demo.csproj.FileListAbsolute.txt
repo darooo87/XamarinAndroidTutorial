@@ -1,0 +1,16 @@
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\bin\Debug\Demo.dll
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\bin\Debug\Demo.pdb
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\bin\Debug\Demo.Demo.apk
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\bin\Debug\Demo.Demo-Signed.apk
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\obj\Debug\Demo.dll
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\obj\Debug\Demo.pdb
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\obj\Debug\android\bin\Demo.Demo.apk
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\obj\Debug\res\layout\main.xml
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\obj\Debug\res\values\strings.xml
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\obj\Debug\res\drawable\icon.png
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\obj\Debug\R.cs.flag
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\obj\Debug\uploadflags.txt
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\bin\Debug\Demo.dll.mdb
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\obj\Debug\android\assets\Demo.dll.mdb
+c:\users\d.grabowski.ecb\documents\visual studio 2017\Projects\Demo\Demo\obj\Debug\res\layout\menu.xml
